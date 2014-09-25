@@ -1,0 +1,16 @@
+/* 
+  localizable.strings
+  iSpy
+
+  Created by Franck LETELLIER on 22/09/2014.
+  Copyright (c) 2014 cocoaHeads. All rights reserved.
+*/
+
+
+"touchID.setting.title" = "Accèder à l'espace secret!";
+"login.fail"            = "Le login/mot de passe n'est pas reconnu";
+"login.touchID.message" = "Veuillez vous identifier";
+"local.fallback.title"  = "Fallback";
+"local.fallback.message"  = "TODO: inserer un mecanisme de Fallback ici";
+"local.fallback.cancel"  = "ok";
+"local.fallback.text"   = "Entrer votre code secret";
